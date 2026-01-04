@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\azerty\Desktop\laravel.test\CovoiturageProjet\resources\views/evaluations/index.blade.php ENDPATH**/ ?>

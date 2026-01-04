@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\azerty\Desktop\laravel.test\CovoiturageProjet\resources\views/trajects/show.blade.php ENDPATH**/ ?>
